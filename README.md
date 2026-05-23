@@ -20,3 +20,14 @@ This repository contains the PyTorch implementation of **Adaptive WNNM**, a full
 git clone https://github.com/gargitrivedi/AWNNM-Image-Fusion.git
 cd AWNNM-Image-Fusion
 pip install -r requirements.txt
+
+
+## Citation
+
+If you use this work, please cite:
+
+@article{trivedi2026awnnm,
+  title={Adaptive Weighted Nuclear Norm Minimization for Image Fusion},
+  author={Trivedi, Gargi},
+  year={2026}
+}
